@@ -1,0 +1,9 @@
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.csprojAssemblyReference.cache
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.Form1.resources
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.Properties.Resources.resources
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.csproj.GenerateResource.cache
+D:\основи прог инж\Betcher\Betcher\bin\Debug\Betcher.exe.config
+D:\основи прог инж\Betcher\Betcher\bin\Debug\Betcher.exe
+D:\основи прог инж\Betcher\Betcher\bin\Debug\Betcher.pdb
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.exe
+D:\основи прог инж\Betcher\Betcher\obj\Debug\Betcher.pdb
